@@ -47,3 +47,24 @@ form{
   
   padding: 70px 0;
 }
+fieldset{
+  border: none;
+}
+legend{
+  padding-bottom: 20px;
+  font-size: large;
+}
+.account_input{
+  display: flex;
+  gap: 10%;
+}
+fieldset p{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+}
+input{
+  border: #E5E7EB solid 1px;
+  border-radius: 4px;
+}
