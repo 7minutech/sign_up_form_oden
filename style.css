@@ -10,6 +10,8 @@ body{
   height: 100%;
   display: flex;
   justify-content: center;
+  background-color: #748D92;
+  color: #E3E2DF;
 }
 #form_page{
   display: flex;
@@ -21,7 +23,7 @@ body{
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  background-color: rgb(57, 78, 78);
+  background-color: #2E3944;
 }
 #design_half{
   background-image: url("imgs/halie-west-25xggax4bSA-unsplash.jpg");
@@ -54,17 +56,24 @@ legend{
   padding-bottom: 20px;
   font-size: large;
 }
-.account_input{
+.col_account_input{
   display: flex;
-  gap: 10%;
+  gap: 10%   ;
+}
+.row_account_input{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 fieldset p{
   display: flex;
   flex-direction: column;
-  gap: 10px;
 
 }
 input{
   border: #E5E7EB solid 1px;
   border-radius: 4px;
+}
+label{
+  color: #D3D9D4;
 }
