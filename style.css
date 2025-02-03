@@ -8,4 +8,42 @@ html{
 }
 body{
   height: 100%;
+  display: flex;
+  justify-content: center;
+}
+#form_page{
+  display: flex;
+  height: 100%;
+  width: 75%;
+  
+}
+#form_half{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: rgb(57, 78, 78);
+}
+#design_half{
+  background-image: url("imgs/halie-west-25xggax4bSA-unsplash.jpg");
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-basis: 500px;
+}
+#form_half > div{
+  margin-left: 100px;
+}
+form{
+  margin-left: 100px;
+}
+#img_holder{
+  display: flex;
+  justify-content: center;
+  background: rgba(44, 58, 58, 0.4);
+
+
+}
+#img_holder p{
+  
+  padding: 70px 0;
 }
