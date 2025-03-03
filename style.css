@@ -85,6 +85,9 @@ label{
   flex-direction: column;
   gap: 20px;
 }
+#hook_text{
+  width: 60%;
+}
 a{
   color: #bb9d43;
   text-decoration: none;
