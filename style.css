@@ -80,5 +80,14 @@ label{
 #form_hook{
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 20px;
+}
+a{
+  color: #bb9d43;
+  text-decoration: none;
+}
+#account{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
