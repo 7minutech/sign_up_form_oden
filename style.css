@@ -38,7 +38,7 @@ body{
   flex-basis: 500px;
 }
 #form_half > div{
-  margin-left: 100px;
+  margin-left: 50px;
 }
 form{
   background-color: #4f6881;
@@ -58,7 +58,7 @@ form{
 }
 fieldset{
   border: none;
-  margin-left: 100px;
+  margin-left: 50px;
 }
 legend{
   padding-bottom: 20px;
