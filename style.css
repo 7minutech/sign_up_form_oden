@@ -69,6 +69,7 @@ legend{
   gap: 10%   ;
 }
 .row_account_input{
+  font-size: 0.7rem;
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -98,6 +99,7 @@ a{
   text-decoration: none;
 }
 #account{
+  font-size: 0.7rem;
   display: flex;
   flex-direction: column;
   gap: 20px;
