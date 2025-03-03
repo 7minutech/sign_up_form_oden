@@ -40,6 +40,8 @@ body{
 }
 form{
   background-color: #4f6881;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 #img_holder{
   display: flex;
