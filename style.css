@@ -13,6 +13,7 @@ body{
   background-color: #748D92;
   color: #E3E2DF;
   font-weight: bold;
+  font-size: 24px;
 }
 #form_page{
   display: flex;
