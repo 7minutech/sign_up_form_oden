@@ -12,6 +12,7 @@ body{
   justify-content: center;
   background-color: #748D92;
   color: #E3E2DF;
+  font-weight: bold;
 }
 #form_page{
   display: flex;
