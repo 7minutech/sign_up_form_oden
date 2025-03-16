@@ -8,7 +8,12 @@ html{
   font-size: 24px;
   color: #E3E2DF;
 }
-
+@font-face {
+  font-family: 'Norse-Bold';
+  src: url("./font/Norse-Bold.otf") format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
 body{
   height: 100%;
   display: flex;
@@ -46,6 +51,8 @@ form{
   padding-bottom: 20px;
 }
 #img_holder{
+  font-family: 'Norse-Bold', sans-serif;
+  font-size: 64px;
   display: flex;
   justify-content: center;
   background: rgba(44, 58, 58, 0.4);
