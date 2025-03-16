@@ -117,6 +117,7 @@ button{
   background-color: #bb9d43;
   color: #E3E2DF;
   padding: 10px 40px;
+  border: 1px solid transparent;
   border-radius: 10px;
 }
 button:hover{
