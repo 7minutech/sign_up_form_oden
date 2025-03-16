@@ -49,6 +49,7 @@ form{
   background-color: #4f6881;
   padding-top: 20px;
   padding-bottom: 20px;
+  box-shadow: 0 12px 10px -2px rgba(0, 0, 0, 0.25); 
 }
 #img_holder{
   font-family: 'Norse-Bold', sans-serif;
