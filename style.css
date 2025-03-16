@@ -104,3 +104,9 @@ a{
   flex-direction: column;
   gap: 20px;
 }
+button{
+  
+  background-color: #bb9d43;
+  padding: 10px;
+  border-radius: 10px;
+}
