@@ -105,8 +105,12 @@ a{
   gap: 20px;
 }
 button{
-  
+  font-weight: bold;
   background-color: #bb9d43;
-  padding: 10px;
+  color: #E3E2DF;
+  padding: 10px 40px;
   border-radius: 10px;
+}
+button:hover{
+  cursor: pointer;
 }
