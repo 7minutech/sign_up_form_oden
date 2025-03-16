@@ -6,6 +6,7 @@
 html{
   height: 100%;
   font-size: 24px;
+  color: #E3E2DF;
 }
 
 body{
@@ -13,7 +14,6 @@ body{
   display: flex;
   justify-content: center;
   background-color: #0D0D0D;
-  color: #E3E2DF;
   font-weight: bold;
 }
   
